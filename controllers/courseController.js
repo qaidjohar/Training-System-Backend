@@ -9,13 +9,10 @@ exports.updateCourse = factory.updateOne(Course);
 exports.deleteCourse = factory.deleteOne(Course);
 
 exports.getCourseCustomFiltered = catchAsync(async (req, res, next) => {
-  console.log(req.params);
-
   const filter =
     req.params.field === 'subject'
       ? { 'subjects.name': req.params.value }
       : { 'subjects.stream': req.params.value };
-  console.log(filter);
   let courses = await Course.aggregate([
     {
       $lookup: {
