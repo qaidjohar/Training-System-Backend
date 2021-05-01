@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "608d426b68c7294404f793f5",
+    "name": "Finance",
+    "stream": "Commerce",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:58:35.066Z",
+    "updatedAt": "2021-05-01T11:58:35.066Z"
+  },
+  {
+    "_id": "608d426068c7294404f793f4",
+    "name": "Economics",
+    "stream": "Commerce",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:58:24.373Z",
+    "updatedAt": "2021-05-01T11:58:24.373Z"
+  },
+  {
+    "_id": "608d424c68c7294404f793f3",
+    "name": "Social Science",
+    "stream": "Arts",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:58:04.198Z",
+    "updatedAt": "2021-05-01T11:58:04.198Z"
+  },
+  {
+    "_id": "608d424368c7294404f793f2",
+    "name": "English",
+    "stream": "Arts",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:57:55.787Z",
+    "updatedAt": "2021-05-01T11:57:55.787Z"
+  },
+  {
+    "_id": "608d422168c7294404f793f1",
+    "name": "Physics",
+    "stream": "Science",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:57:21.675Z",
+    "updatedAt": "2021-05-01T11:57:21.675Z"
+  },
+  {
+    "_id": "608d421968c7294404f793f0",
+    "name": "Maths",
+    "stream": "Science",
+    "modifiedBy": "608d240fe8d0e927c0f51b09",
+    "createdAt": "2021-05-01T11:57:13.221Z",
+    "updatedAt": "2021-05-01T11:57:13.221Z"
+  }
+]

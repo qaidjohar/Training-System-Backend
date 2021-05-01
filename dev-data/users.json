@@ -1,0 +1,14 @@
+[
+  {
+    "role": "admin",
+    "_id": "608d240fe8d0e927c0f51b09",
+    "name": "Qaidjohar",
+    "email": "qaidjawadwala@gmail.com"
+  },
+  {
+    "role": "user",
+    "_id": "608d9dcec21a000af01ee757",
+    "name": "Qaidjohar",
+    "email": "qaidjohar@example.com"
+  }
+]
